@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "label": "hello there",
+        "checked": false,
+        "editing": false
+    },
+    {
+        "id": 2,
+        "label": "how are you?",
+        "checked": false,
+        "editing": false
+    },
+    {
+        "id": 3,
+        "label": "hello there",
+        "checked": false,
+        "editing": false
+    }
+]
